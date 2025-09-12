@@ -6,3 +6,5 @@
 
 - Robotics graduate student at Worcester Polytechnic Institute
 - Rich R&D experience in legged robots control and learning
+
+[![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=opsullivan85)](https://github.com/anuraghazra/github-readme-stats)
